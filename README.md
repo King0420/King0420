@@ -6,7 +6,7 @@
 - 😺 媒体：微信公众号：半秒灵感
 - 🤖 AI 助手：[ChatGPT-Next-Web](https://chatgpt.aabb.xyz/)🤟
   
-<img src="https://github.com/user-attachments/assets/4efc327e-5caf-456e-b575-00b9f05c5f5a" width="500">
+<img src="https://github.com/user-attachments/assets/4efc327e-5caf-456e-b575-00b9f05c5f5a" width="50%">
 
 <!-- 注释内容
 <img src="https://profile-counter.glitch.me/King0420/count.svg" align=right>
