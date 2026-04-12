@@ -4,8 +4,9 @@
 - 👨‍💻 介绍：不从事程序员，只为探索GitHub有趣的项目❤️
 - 🏡 作品：[Docsify笔记网站](https://docsify-f1m.pages.dev/#/) | [3D汽车博客网站](https://3dcar.pages.dev/)📔
 - 😺 媒体：微信公众号：半秒灵感
-- 🤖 AI 助手：[ChatGPT-Next-Web](https://chatgpt.aabb.xyz/)🤟 
-
+- 🤖 AI 助手：[ChatGPT-Next-Web](https://chatgpt.aabb.xyz/)🤟
+  
+<img src="https://github.com/user-attachments/assets/4efc327e-5caf-456e-b575-00b9f05c5f5a" width="500">
 
 <!-- 注释内容
 <img src="https://profile-counter.glitch.me/King0420/count.svg" align=right>
